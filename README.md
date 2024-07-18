@@ -1,2 +1,4 @@
 CS771 Course Project
-Linear Regression & Decision Tree
+Intriduction to Machine Learning
+Instructor: Purushottam Kar
+"Linear Regression & Decision Tree"
